@@ -1,0 +1,32 @@
+{
+  "jogo": "Red Dead Redemption 2",
+  "conquistas": [
+    {
+      "nome": "Lenda do Oeste",
+      "tipo": "100%",
+      "descricao": "Complete 100% do jogo"
+    },
+    {
+      "nome": "Zoologista",
+      "tipo": "colecionavel",
+      "descricao": "Estude todos os animais",
+      "itens": [
+        {
+          "regiao": "Grizzlies",
+          "local": "Montanhas geladas",
+          "descricao": "Animais raros aparecem de manhã"
+        },
+        {
+          "regiao": "Bayou Nwa",
+          "local": "Pântano",
+          "descricao": "Procure jacarés e aves"
+        }
+      ]
+    },
+    {
+      "nome": "História Principal",
+      "tipo": "historia",
+      "descricao": "Complete todos os capítulos"
+    }
+  ]
+}

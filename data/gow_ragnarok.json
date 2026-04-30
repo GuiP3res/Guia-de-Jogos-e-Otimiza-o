@@ -1,0 +1,27 @@
+{
+  "jogo": "God of War Ragnarök",
+  "conquistas": [
+    {
+      "nome": "O Curador",
+      "tipo": "colecionavel",
+      "descricao": "Obtenha todos os artefatos",
+      "itens": [
+        {
+          "regiao": "Midgard",
+          "local": "Lago dos Nove",
+          "descricao": "Perto da torre de Tyr"
+        },
+        {
+          "regiao": "Vanaheim",
+          "local": "Selva",
+          "descricao": "Área desbloqueada depois da história"
+        }
+      ]
+    },
+    {
+      "nome": "O Urso e o Lobo",
+      "tipo": "100%",
+      "descricao": "Pegue todas as conquistas"
+    }
+  ]
+}
